@@ -1,6 +1,6 @@
 # JAVSCRIPT RESOURCES
 
-If you want to go for the best beginner friendly documentation for JavaScript, click [here](https://javascript.info/).
+If you want to go for the best beginner-friendly documentation for JavaScript, click [here](https://javascript.info/).
 
 ## Topics Wise Notes
 
@@ -14,6 +14,8 @@ If you want to go for the best beginner friendly documentation for JavaScript, c
 - [XHR](https://github.com/codersreign/JAVSCRIPT-RESOURCES/blob/main/XHR.md)
 - [ES6 Modules](https://github.com/codersreign/JAVSCRIPT-RESOURCES/blob/main/es6-modules.md)
 - [Debouncing](https://github.com/codersreign/JAVSCRIPT-RESOURCES/blob/main/debouncing.md)
+- [Throttling](https://github.com/codersreign/Javascript-Resources/blob/main/throttling.md)
+- [Cors](https://github.com/codersreign/Javascript-Resources/blob/main/cors.md)
 
 
 
